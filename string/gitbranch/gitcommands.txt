@@ -1,0 +1,12 @@
+git clone:
+git add . :
+git add filename :
+git checkout -b :
+git commit -m "" :
+git status :
+git branch :
+git branch -d :
+git pull origin  :
+git push origin :
+git help :
+git log :
