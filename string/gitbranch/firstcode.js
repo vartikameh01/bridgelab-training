@@ -3,13 +3,12 @@ console.log("Node.js Backend Started");  //console.log() is used to print output
 // "Node.js Backend Started" is a string message.
 
 //Variables 
-let name="Mahak";  //string   //use to declare variables and value inside it cal bhe change
-let age=21;        //number
-const country="India";  //constant    //use to declare the varianbles
-let isStudent=true;     //boolean      //use to prints a data in boolean form (true/false)
-
-console.log(name);
-console.log(age);
-console.log(country);
-console.log(isStudent);
+let name="Mahak";  //string   //let is used to declare a variable.
+let age=21;        //number    //declare the value
+const country="India";  //constant    //const is used to declare a constant variable.
+let isStudent=true;     //boolean      //Declares a variable named isStudent. Boolean values are only true or false.
+console.log(name);           //Prints the value stored in the variable name.
+console.log(age);              //Prints the value stored in the variable age.
+console.log(country);             //Prints the value stored in the variable country.
+console.log(isStudent);           //Prints the value stored in the variable isStudent in boolean form.
 
